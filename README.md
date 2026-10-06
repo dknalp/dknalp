@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://parsher.xyz">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,supabase&perline=9" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://parsher.xyz">
-    <img src="https://skillicons.dev/icons?i=docker,linux,arch,bash,git,cloudflare,aws,githubactions&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,arch,bash,git,cloudflare&perline=8" />
   </a>
 </p>
 

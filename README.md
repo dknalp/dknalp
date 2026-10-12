@@ -3,7 +3,7 @@
 <div align="center">
   <h1 align="center">👋 Hey, I'm Dogukan! </h1>
 <p>
- Software engineer who builds for the web. I care about clean code and how things look — background in design helps with that. Always working on something.
+ Full stack software engineer. I build web apps, desktop apps, API services, automations and AI systems. Started out in web design so I care about how things look too.
 </p>
 
   Contact on [dogukanalpt@gmail.com](mailto:dogukanalpt@gmail.com) 

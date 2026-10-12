@@ -3,7 +3,7 @@
 <div align="center">
   <h1 align="center">👋 Hey, I'm Dogukan! </h1>
 <p>
- 🎉 Hey there, I'm Dogukan, a full stack developer with a passion for creating beautiful and interactive web experiences. I love working with modern web technologies like React, Next, as well as using Node.js for server-side development. I'm a self-taught learner who is always looking to improve my skills and keep up with the latest industry trends. When it comes to projects, I can work solo or as part of a team, and I like to keep things fun and collaborative. If you'd like to learn more about my experience and skills, you can check out my resume or my website.
+ Software engineer who builds for the web. I care about clean code and how things look — background in design helps with that. Always working on something.
 </p>
 
   Contact on [dogukanalpt@gmail.com](mailto:dogukanalpt@gmail.com) 

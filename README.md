@@ -10,10 +10,9 @@
 </div>
 
 <!-- https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64 -->
-| [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) | [kiwimi.co](https://www.kiwimi.cp/) |
+| [setscript.com](https://www.setscript.com) | [parsher.xyz](https://www.parsher.xyz/) | [kiwimi.co](https://www.kiwimi.co/) |
 | --- | --- | --- |
-| ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | <img width="1877" height="998" alt="image" src="https://github.com/user-attachments/assets/30dd6cad-afeb-4d94-ae2b-618b29dee28e" />
-| <img width="1860" height="997" alt="image" src="https://github.com/user-attachments/assets/ce9f4dcf-242c-4afa-b6a5-49f634aca3fc" /> |
+| ![](https://github.com/user-attachments/assets/6e58d992-064e-44bb-a198-c1ddac146fbe) | <img width="1877" height="998" alt="image" src="https://github.com/user-attachments/assets/30dd6cad-afeb-4d94-ae2b-618b29dee28e" /> | <img width="1860" height="997" alt="image" src="https://github.com/user-attachments/assets/ce9f4dcf-242c-4afa-b6a5-49f634aca3fc" /> |
 | Links: [site](https://www.setscript.com) ・ [docs](https://developer.setscript.com/) ・ [organization](https://github.com/setscript) ・ [desktop app](https://github.com/setscript/SetScript-Desktop) ・ [discord](https://discord.gg/qEmGxaDUfY) | Links: [go site](https://www.parsher.xyz/) ・ [github repo](https://github.com/parsherr/modern-portfolio) | Links: [go site](https://www.kiwimi.co/) |
 
 

@@ -37,7 +37,7 @@
   
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html%2Ccss%2Cbootstrap%2Cjavascript%2Cpython%2Cnodejs%2Cdiscordjs%2Cgit%2Creact%2Ctypescript%2Ctailwindcss%2Cnextjs%2Cfigma%2Clinux%2Cpnpm%2Cmongodb%2Cpostgresql%2Cfirebase%2Csupabase%2Cvscode%2Cpremiere%2Cphotoshop%2Cthreejs%2Cgolang&t=dark&perline=8)](https://skill-icons-taupe.vercel.app)
+[![My Skills](https://skill-icons-taupe.vercel.app/icons?i=html%2Ccss%2Cbootstrap%2Cjavascript%2Cpython%2Cnodejs%2Cdiscordjs%2Cgit%2Creact%2Ctypescript%2Ctailwindcss%2Cnextjs%2Cfigma%2Clinux%2Cpnpm%2Cmongodb%2Cpostgresql%2Cfirebase%2Csupabase%2Cvscode%2Cpremiere%2Cphotoshop%2Cthreejs%2Cgolang&t=dark&perline=8)](https://skill-icons-taupe.vercel.app)
 <!-- github tech usage starts ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsherr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 

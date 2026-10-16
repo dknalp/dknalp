@@ -10,10 +10,10 @@
 </div>
 
 <!-- https://github.com/user-attachments/assets/d6fde790-0109-4a83-bbab-c0376c5d9c64 -->
-| [my portfolio](https://my-portfolio-seven-delta-97.vercel.app/) | [kiwimi.co](https://www.kiwimi.co/) | [skill icons](https://skill-icons-taupe.vercel.app/) |
+| [my portfolio](www.dknalp.dev) | [kiwimi.co](https://www.kiwimi.co/) | [skill icons](https://skill-icons-taupe.vercel.app/) |
 | --- | --- | --- |
 | <img width="1877" height="998" alt="image" src="https://github.com/user-attachments/assets/30dd6cad-afeb-4d94-ae2b-618b29dee28e" /> | <img width="1860" height="997" alt="image" src="https://github.com/user-attachments/assets/ce9f4dcf-242c-4afa-b6a5-49f634aca3fc" /> | <img width="1878" height="997" alt="image" src="https://github.com/user-attachments/assets/64d9f365-7d09-4b37-b992-a265ac1c02c9" /> |
-| Links: [website](https://my-portfolio-seven-delta-97.vercel.app/) ・ [github repo](https://github.com/parsherr/modern-portfolio) | Links: [website](https://www.kiwimi.co/) | Links: [website](https://skill-icons-taupe.vercel.app/) ・ [github repo](https://github.com/dknalp/skill-icons) |
+| Links: [website](www.dknalp.dev) ・ [github repo](https://github.com/parsherr/modern-portfolio) | Links: [website](https://www.kiwimi.co/) | Links: [website](https://skill-icons-taupe.vercel.app/) ・ [github repo](https://github.com/dknalp/skill-icons) |
 
 
 <!--typin animal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
